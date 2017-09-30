@@ -1,0 +1,8 @@
+[submodule "AnalyzingHotSpotCrashes"]
+	path = AnalyzingHotSpotCrashes
+	url = https://github.com/simonis/AnalyzingHotSpotCrashes.git
+	branch = JavaOne2017
+[submodule "OpenJDKInsAndOuts"]
+	path = OpenJDKInsAndOuts
+	url = https://github.com/simonis/OpenJDKInsAndOuts.git
+	branch = master
